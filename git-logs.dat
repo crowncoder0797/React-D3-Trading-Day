@@ -1,0 +1,67 @@
+cd25540 2019-01-15 12:35:12 Initial commit from Create React App
+94f139d 2019-01-17 12:51:32 all ctors removed; use arrow fns avoid method binding
+3b798d6 2019-01-29 09:52:27 openStock components, bitcoin and ethereum charts --all working
+f187b2b 2019-02-07 08:49:33 bitcoin&ethereum VX components failed to load and were removed
+ef212fc 2019-03-05 10:39:06 added mock design images; google-trends feature not working
+c16d6e6 2019-04-08 23:27:14 market spotlight works; candle-sticks chart quote
+6512dec 2019-04-12 17:46:53 some cool new UI upgrades and screenshots
+28982cd 2019-04-12 23:55:42 MISC:redundant code removed and some stuff moved
+b9c50be 2019-04-13 10:12:16 Rfct'd:dark buttons|openStock Info| quoteData
+1f521e5 2019-04-13 11:22:03 quote-page beautification
+f3eb794 2019-04-16 23:34:37 ticking tickers ++ ticking clock
+558ee2e 2019-04-17 11:01:40 new styled-candlestick route
+998981a 2019-04-18 09:50:32 sp500 market-forces | normalized css in index.css
+2848c7e 2019-04-18 22:13:30 added header| instant search works| round buttons
+bec71e6 2019-04-19 10:25:16 lots of overhaul-new nav menu below header
+df3b171 2019-04-19 11:25:44 misc changes to formatting and ui
+b7139b0 2019-04-22 22:55:07 messy refactor of controlled stylized candlesticks
+43387fb 2019-04-24 10:20:05 +vx demo | - openStock | re-org routes
+ce4ac1a 2019-04-25 23:28:21 OHHH BABY!!!! The SlideShow works!
+b51a2de 2019-04-26 15:28:11 pkg changes for deploy+netlify redirect | exchanges endpoint |
+c88ea1d 2019-04-26 16:11:49 pkg changes for deploy+netlify redirect | exchanges endpoint |
+0f9f100 2019-04-26 20:51:58 useless stuff removed |  reorganized structure
+6553f71 2019-04-28 15:18:39 misc maintenance and some redesign for ui
+a87a47f 2019-04-29 00:43:23 touch handling added to slideshow
+b282169 2019-05-10 13:38:00 curvy header + sp500 treemap + misc
+a2b0086 2019-05-10 14:11:03 button click prevenrt def
+5f41d92 2019-05-26 14:19:49 no more page refresh; some layout design changes
+22506c5 2019-05-28 14:20:46 refresh problem solved; styled chart cleaned
+b28a850 2019-05-29 15:58:43 some ui changes
+798437f 2019-05-29 16:00:00 somem ui fixes and files moved
+b3eab84 2019-05-30 18:44:23 clean react hooks; removed conditions from comps
+6f611fc 2019-05-30 18:58:55 clean react hooks; removed conditions from comps
+910c959 2019-05-30 19:16:29 Merge branch 'master' of https://github.com/Stroked/trading-day
+8b8d30f 2019-05-30 19:20:05 oops
+54919e0 2019-05-31 15:46:34 this is it..no refresh*fingers crossed*
+43b47b4 2019-06-11 00:22:01 suir-coming to an end. it's tachyons all the way
+91f1d36 2019-06-11 02:37:46 readme updated
+9867660 2019-06-19 13:17:49 lots of new stuff..data service change...+new viz
+2223b2e 2019-06-20 09:19:08 readme updated
+d04d0bd 2019-06-20 10:41:55 removed OBn: MajorIndexes; it failed build
+6457330 2019-06-20 12:05:14 asd
+23fe501 2019-06-20 12:29:47 Delete yarn.lock
+c3911d3 2019-06-20 12:30:48 Update package.json
+70f6471 2019-06-21 10:38:30 removed OBn
+91ee1db 2019-06-21 11:01:27 asdf
+b93c365 2019-06-21 11:01:40 asdf
+ffc71aa 2019-06-21 11:17:29 d3
+8cd17ee 2019-06-22 12:07:25 major indexes fetched; job bubbles
+6d9e490 2019-06-22 12:18:00 added verion to tgz address
+2108a9b 2019-06-22 12:21:21 as
+6927f5c 2019-06-22 12:24:47 added OBn again...should work now
+c751fe8 2019-06-23 16:54:15 new pk
+32c30b8 2019-06-23 17:16:13 new pk & money flows for sportlight
+c612353 2019-06-25 16:21:24 replaced IEX; added moneyflows tables
+99f5648 2019-06-25 16:57:35 observable notebook again
+f0f6284 2019-06-25 17:02:49 obn again
+625b543 2019-06-26 12:15:41 dead code + deps removal
+bc9da3f 2019-06-26 14:50:36 here we go again
+cbd8614 2019-07-10 09:24:20 added sparklines
+d465b52 2019-07-10 09:46:11 removed obn
+cfab7c0 2019-07-10 10:04:28 builds
+bf249a9 2019-07-10 10:34:38 builds
+c46fff8 2019-07-10 10:39:25 builds
+9eac3c1 2019-07-10 11:05:27 home works
+22bb3c6 2019-07-10 12:26:13 header redone
+1c2cb45 2019-07-10 13:01:51 header redesign
+747b1c4 2019-07-10 13:32:27 https
